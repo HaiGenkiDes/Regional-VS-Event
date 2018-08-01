@@ -11,7 +11,6 @@ Region-VS-Region will pit region vs region allowing all players in the game to t
 - Each side of the summoners rift map will take on characteristics of the region of the team that is defending it.  
 - Turrets, minions and jungle monsters will be unique to each region.
 - Each region will have a unique neutral epic monster. These will replace Baron and Dragon
-- 
 
 
 ## Implementation
@@ -24,6 +23,24 @@ Overhauling SR with many possible regions that affect the look of turrets, minio
 - Month 6 Shurima Vs Targon (release Targon ADC champion)
 
 At the conlcusion of the Regional-VS-Events, Region-VS-Region game mode will be unlocked. ]
+
+## Epic Monsters
+<table>
+  <tr><td><strong>Faction</strong></td><td><strong>Epic Monster</strong></td><td><strong>Abilities</strong></td><td><strong>Buff</strong></td></tr>
+  <tr><td>Void</td><td>Rift Herald / Baron</td><td></td><td></td></tr>
+  <tr><td>Targon</td><td>Dragon</td><td></td><td></td></tr>
+  <tr><td>Shadow Isles</td><td>Vilemaw</td><td></td><td></td></tr>
+  <tr><td>Piltover</td><td>Mechanical Golem </td><td></td><td></td></tr>
+  <tr><td>Zaun</td><td>Giant Train Monster</td><td></td><td></td></tr>
+  <tr><td>Ionia N</td><td>Phoenix</td><td></td><td></td></tr>
+  <tr><td>Ionia S</td><td>Chimeara</td><td></td><td></td></tr>
+  <tr><td>Freljord</td><td>Ice Wyrm</td><td></td><td></td></tr>
+  <tr><td>Shurima</td><td>Giant Sand Wraith</td><td></td><td></td></tr>
+  <tr><td>Demacia</td><td>Giant Lion</td><td></td><td></td></tr>
+  <tr><td>Bilgewater</td><td>Kraken</td><td></td><td></td></tr>
+  <tr><td>Noxus</td><td>Giant Wolf</td><td></td><td></td></tr>
+</table>
+
 
 ## Rewards
 ### Regional-Vs-Events 
