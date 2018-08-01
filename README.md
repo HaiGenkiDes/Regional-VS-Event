@@ -15,13 +15,14 @@ Region-VS-Region will pit region vs region allowing all players in the game to t
 
 
 ## Implementation
-Overhauling SR with many possible regions that affect the look of turrets, minions, jungle and epic monsters is a giagntic task, which is why Regional-Vs-Events make a lot of sense for setting the groundwork for a new game mode.  A Regional-VS-Event would be similar to a Region-VS-Region game mode, but it would have only two choices for Regions. A series of Regional-Vs-Events will allow the developers to focus on two regions at a time.  Below is an example schedule:
--Month 1 Ionia North (Placidium) vs Noxus
--Month 2 Piltover vs Zaun (release Piltover tank)
--Month 3 Shadow Isles vs Bilgewater
--Month 4 Ionia South (Bandle City) vs Void (release tanky bandle city jungler)
--Month 5 Freljord vs Demacia
--Month 6 Shurima Vs Targon (release Targon ADC champion)
+Overhauling SR with many possible regions that affect the look of turrets, minions, jungle and epic monsters is a gigantic task, which is why Regional-Vs-Events make a lot of sense for setting the groundwork for a new game mode.  A Regional-VS-Event would be similar to a Region-VS-Region game mode, but it would have only two choices for Regions. A series of Regional-Vs-Events will allow the developers to focus on two regions at a time.  Below is an example schedule:
+- Month 1 Ionia North (Placidium) vs Noxus
+- Month 2 Piltover vs Zaun (release Piltover tank)
+- Month 3 Shadow Isles vs Bilgewater
+- Month 4 Ionia South (Bandle City) vs Void (release tanky bandle city jungler)
+- Month 5 Freljord vs Demacia
+- Month 6 Shurima Vs Targon (release Targon ADC champion)
+
 At the conlcusion of the Regional-VS-Events, Region-VS-Region game mode will be unlocked. ]
 
 ## Rewards
