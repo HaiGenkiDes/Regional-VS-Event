@@ -4,13 +4,22 @@
 VS Events so far have been unsatisfying in many regards.  The biggest drawback is that only two champions participate.  In blind pick up to 4 players can play the vs champions and only 2 players in draft (assuming they aren't banned).  Let's be real, "Win a game with garen on your team" is a pretty unsatisfying mission, especially if you play a role where garen is not a viable champion.  In addition, someone else usually plays the champ anyways so if you play regularly completing the mission doesn't actually require any extra effort.  
 
 ## Overview
-
-Region-VS-Region will pit region vs region allowing all players in the game to take a central role in the VS event. 
-- Players on each team vote on a region to fight for. If no region has 3/5 votes, region will be selected randomly from the regions with votes. 
-- Champion selection will be limited to only champions from the selected region
+Regional-VS-Event and Region-VS-Region Game Mode will expand the number of champions participating in the VS event allowing all players in the game to take a central role in the event. 
+### Regional-VS-Event will pit two pre-defined regions against each other
+- Champion selection will be limited to only champions from the selected region (all champions from the region will be playable)
 - Each side of the summoners rift map will take on characteristics of the region of the team that is defending it.  
 - Turrets, minions and jungle monsters will be unique to each region.
-- Each region will have a unique neutral epic monster. These will replace Baron and Dragon
+- Each region will have a unique neutral epic monster instead of dragon/baron
+
+Regional-VS-Event will be the building blocks to Region-VS-Region Game Mode
+
+### Region-VS-Region Game Mode
+Region-VS-Region Game Mode will pit user elected region vs user elected region 
+- <strong>Players on each team vote on a region to fight for. If no region has 3/5 votes, region will be selected randomly from the regions with votes. </strong>
+- Champion selection will be limited to only champions from the selected region (all champions from the region will be playable)
+- Each side of the summoners rift map will take on characteristics of the region of the team that is defending it.  
+- Turrets, minions and jungle monsters will be unique to each region.
+- Each region will have a unique neutral epic monster instead of dragon/baron
 
 
 ## Implementation
